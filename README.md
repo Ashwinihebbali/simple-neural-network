@@ -3,7 +3,7 @@
 A simple Python script showing how the backpropagation algorithm works.
 
 Checkout this blog post for background: [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/).
-
+ 
 # Learn More
 
 Check out [Emergent Mind](https://www.emergentmind.com/?utm_source=backprop), an AI Research Assistant I've been working on that helps you discover and learn about important new AI/ML research.
